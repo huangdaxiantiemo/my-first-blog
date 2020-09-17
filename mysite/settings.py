@@ -27,8 +27,7 @@ SECRET_KEY = 'i8-m(picxy%ivn=xsx1w*-jq98w#8#^(n5-87#t@(7bxwh^%1m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['huangwei
-                 .pythonanywhere.com', '127.0.0.1']
+ALLOWED_HOSTS = ['huangwei.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
